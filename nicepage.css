@@ -31632,6 +31632,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     margin-top: 14px;
+    margin-left: -27px;
   }
 
   .u-header .u-menu-1 {
@@ -31642,11 +31643,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 86px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: -27px;
-    width: auto;
   }
 
   .u-header .u-menu-1 {
